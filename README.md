@@ -2,7 +2,7 @@
 ----------BANK MANAGEMENT SYSTEM----------
 
 Team Name:   team D
-Memebers:    Mahmoud Osama
+Memebers:    Mahmoud Osman
              Shrouk Ahmed
              Yosef Samy
              Ahmed Abdelmoniem
