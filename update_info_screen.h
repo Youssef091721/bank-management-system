@@ -1,0 +1,7 @@
+#ifndef UPDATE_INFO_SCREEN_H_INCLUDED
+#define UPDATE_INFO_SCREEN_H_INCLUDED
+void update_info_screen();
+
+
+
+#endif // UPDATE_INFO_SCREEN_H_INCLUDED

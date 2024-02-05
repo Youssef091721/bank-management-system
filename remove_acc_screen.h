@@ -1,0 +1,8 @@
+#ifndef REMOVE_ACC_SCREEN_H_INCLUDED
+#define REMOVE_ACC_SCREEN_H_INCLUDED
+
+
+void remove_acc_screen();
+
+
+#endif // REMOVE_ACC_SCREEN_H_INCLUDED

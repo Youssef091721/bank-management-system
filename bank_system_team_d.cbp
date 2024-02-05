@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="bank_system_team_d" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/bank_system_team_d" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/bank_system_team_d" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="acc_list_screen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="acc_list_screen.h" />
+		<Unit filename="check_acc_screen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="check_acc_screen.h" />
+		<Unit filename="constants.h" />
+		<Unit filename="create_acc_screen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="create_acc_screen.h" />
+		<Unit filename="home_screen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="home_screen.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="models.h" />
+		<Unit filename="preferences.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="preferences.h" />
+		<Unit filename="register_screen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="register_screen.h" />
+		<Unit filename="remove_acc_screen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="remove_acc_screen.h" />
+		<Unit filename="repository.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="repository.h" />
+		<Unit filename="std_types.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="transaction_screen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="transaction_screen.h" />
+		<Unit filename="update_info_screen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="update_info_screen.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

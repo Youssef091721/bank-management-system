@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1706892071 source:d:\projects\ieee embedded sys\bank_system_team_d\acc_list_screen.c
+	"models.h"
+
+1706892280 source:d:\projects\ieee embedded sys\bank_system_team_d\check_acc_screen.c
+	"std_types.h"
+
+1706901146 source:d:\projects\ieee embedded sys\bank_system_team_d\create_acc_screen.c
+	"models.h"
+
+1706891819 source:d:\projects\ieee embedded sys\bank_system_team_d\home_screen.c
+	"repository.h"
+
+1706896930 source:d:\projects\ieee embedded sys\bank_system_team_d\preferences.c
+	"stdlib.h"
+	"stdio.h"
+	"std_types.h"
+
+1706892250 source:d:\projects\ieee embedded sys\bank_system_team_d\remove_acc_screen.c
+	"std_types.h"
+
+1706903216 source:d:\projects\ieee embedded sys\bank_system_team_d\repository.c
+	<stdio.h>
+	<string.h>
+	"std_types.h"
+	"models.h"
+	"models.h"
+
+1706893139 source:d:\projects\ieee embedded sys\bank_system_team_d\transaction_screen.c
+	<stdio.h>
+	<string.h>
+	"std_types.h"
+	"models.h"
+	"repository.h"
+
+1706896615 source:d:\projects\ieee embedded sys\bank_system_team_d\update_info_screen.c
+	"repository.h"
+
+1706908914 source:d:\projects\ieee embedded sys\bank_system_team_d\main.c
+	<stdio.h>
+	<stdlib.h>
+	"register_screen.h"
+
+1706893714 d:\projects\ieee embedded sys\bank_system_team_d\std_types.h
+
+1706895530 d:\projects\ieee embedded sys\bank_system_team_d\models.h
+	"std_types.h"
+
+1706645172 d:\projects\ieee embedded sys\bank_system_team_d\preferences.h
+	"std_types.h"
+
+1706901970 d:\projects\ieee embedded sys\bank_system_team_d\repository.h
+	"models.h"
+
+1706813836 d:\projects\ieee embedded sys\bank_system_team_d\register_screen.h
+
+1706902379 source:d:\projects\ieee embedded sys\bank_system_team_d\register_screen.c
+	"home_screen.h"
+	"std_types.h"
+	<string.h>
+
+1706464088 d:\projects\ieee embedded sys\bank_system_team_d\home_screen.h
+

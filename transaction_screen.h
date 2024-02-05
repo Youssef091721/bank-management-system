@@ -1,0 +1,6 @@
+#ifndef TRANSACTION_SCREEN_H_INCLUDED
+#define TRANSACTION_SCREEN_H_INCLUDED
+
+void transaction_screen();
+
+#endif // TRANSACTION_SCREEN_H_INCLUDED

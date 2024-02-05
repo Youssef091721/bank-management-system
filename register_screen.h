@@ -1,0 +1,8 @@
+#ifndef REGISTER_SCREEN_H_INCLUDED
+#define REGISTER_SCREEN_H_INCLUDED
+
+
+void register_screen();
+
+
+#endif // REGISTER_SCREEN_H_INCLUDED

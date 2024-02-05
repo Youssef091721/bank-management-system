@@ -1,0 +1,6 @@
+#ifndef CREATE_ACC_SCREEN_H_INCLUDED
+#define CREATE_ACC_SCREEN_H_INCLUDED
+
+void create_acc_screen();
+
+#endif // CREATE_ACC_SCREEN_H_INCLUDED
